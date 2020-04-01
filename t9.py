@@ -1,2 +1,2 @@
 print('hello word')
-print('hello t9.py')
+print('t9.py')
